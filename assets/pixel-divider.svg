@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="30" viewBox="0 0 720 30" role="img" aria-label="A subtle line of glowing cosmic squares">
+<defs><linearGradient id="g"><stop stop-color="#63e6b1"/><stop offset=".5" stop-color="#83aaff"/><stop offset="1" stop-color="#bd91ff"/></linearGradient></defs>
+<path d="M0 15 H720" stroke="#28334d" stroke-width="1"/>
+<g fill="url(#g)">
+ <rect x="306" y="8" width="8" height="8" rx="2" opacity=".45"/>
+ <rect x="324" y="8" width="8" height="8" rx="2" opacity=".7"/>
+ <rect x="342" y="8" width="8" height="8" rx="2"/>
+ <rect x="360" y="8" width="8" height="8" rx="2" opacity=".85"/>
+ <rect x="378" y="8" width="8" height="8" rx="2" opacity=".65"/>
+ <rect x="396" y="8" width="8" height="8" rx="2" opacity=".4"/>
+</g></svg>
