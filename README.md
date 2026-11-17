@@ -22,7 +22,6 @@ My interests currently orbit around software development, computer vision, intel
 ## Current orbits
 
 <div align="center">
-<img src="assets/orbit-map.svg" alt="A minimal map of my current areas of exploration" width="100%">
 </div>
 
 | Orbit | Exploring |
